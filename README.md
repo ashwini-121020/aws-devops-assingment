@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # aws-devops-assingment
 1.EC2 setup step
+=======
+
+1.EC2 setup step 
+>>>>>>> ddc70ee (Initial Commit)
 1. login AWS console.
 2. Go to EC2 - Launch instance.
 3. Name: ubundtu
@@ -19,6 +24,7 @@
 3. ubuntu@<public-ip>
 4. sudo apt update
 5. sudo apt updrade -y
+<<<<<<< HEAD
 6. df
 7. free
 8. top
@@ -45,3 +51,15 @@
 4. GitHub upload- 15 minutes.
 5. documentation- 25 minutes.
 
+=======
+
+
+3.Nginx installation
+1. sudo apt install nginx -y
+2. sudo systemctl status nginx 
+3. sudo systemctl restart nginx
+  
+
+4.Problem faced
+1. i forgot git update
+>>>>>>> ddc70ee (Initial Commit)
