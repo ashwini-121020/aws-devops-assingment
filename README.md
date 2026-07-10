@@ -26,7 +26,8 @@
 
 3.Nginx installation
 1. sudo apt install nginx -y
-
+2.sudo systemctl status nginx
+3. sudo systemctl restart nginx
 
 4.Problem faced 
 1. SSH permission deniend issue.
