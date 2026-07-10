@@ -19,9 +19,29 @@
 3. ubuntu@<public-ip>
 4. sudo apt update
 5. sudo apt updrade -y
-
+6. df
+7. free
+8. top
+   
 
 3.Nginx installation
 1. sudo apt install nginx -y
-2. sudo systemctl status nginx
-3. sudo systemctl restart nginx
+
+
+4.Problem faced 
+1. SSH permission deniend issue.
+2. Nginx service not starting.
+
+5. Learning
+1. EC2 instance creation.
+2. linux basic commands.
+3. Git and GitHub workflow.
+
+6. Time Taken
+1. EC2 setup 15-minutes.
+2. Linux Tasks- 20 minutes.
+3. website Deployment- 15 minutes.
+4. GitHub upload- 15 minutes.
+5. documentation- 25 minutes.
+6. sudo systemctl status nginx
+7. sudo systemctl restart nginx
